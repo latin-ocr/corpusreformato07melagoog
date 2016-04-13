@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusreformato07melagoog/corpusreformato07melagoog_0114.png"; bbox 0 0 4508 5782; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 313 1613 1906 1755">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 313 1613 1906 1755">
+     <span class='ocr_line' id='line_1_1' title="bbox 313 1613 1906 1755; baseline 0.003 -4"><span class='ocrx_word' id='word_1_1' title='bbox 313 1614 901 1752; x_wconf 78' lang='lat' dir='ltr'>PHILIPPI</span> <span class='ocrx_word' id='word_1_2' title='bbox 994 1613 1906 1755; x_wconf 76' lang='lat' dir='ltr'><strong>MELANTHONIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 201 1948 2203 2108">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 201 1948 2203 2108">
+     <span class='ocr_line' id='line_1_2' title="bbox 201 1948 2203 2108; baseline 0.002 -22"><span class='ocrx_word' id='word_1_3' title='bbox 201 1980 770 2108; x_wconf 84' lang='lat' dir='ltr'><strong>EPISTOLARUM‚</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 820 1980 1437 2108; x_wconf 79' lang='lat' dir='ltr'><strong>PRAEFATIONUM‚</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1490 1980 2023 2089; x_wconf 88' lang='lat' dir='ltr'><strong>CONSILIORUM</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2199 1948 2203 1957; x_wconf 24' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 652 2313 1570 2429">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 652 2313 1570 2429">
+     <span class='ocr_line' id='line_1_3' title="bbox 652 2313 1570 2429; baseline 0.002 -22"><span class='ocrx_word' id='word_1_7' title='bbox 652 2314 957 2407; x_wconf 87' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_8' title='bbox 1026 2313 1570 2429; x_wconf 82' lang='lat' dir='ltr'><strong>SECUNDUS,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2258 5780">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2258 5780">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2258 5780; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 2258 5780; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
